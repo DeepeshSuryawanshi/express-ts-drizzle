@@ -1,5 +1,7 @@
 {
   "name": "express-ts-drizzle",
+  "version": "1.0.0",
+  "description": "A starter template for building Express applications with TypeScript and Drizzle ORM",
   "author": "Deepesh Suraywanshi",
   "type": "module",
   "scripts": {
