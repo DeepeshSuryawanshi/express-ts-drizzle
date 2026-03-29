@@ -1,0 +1,11 @@
+{
+  "name": "New Environment",
+  "variables": {
+    "server": {
+      "value": "localhost:3000",
+      "type": "string",
+      "id": "49ff3788-075b-4552-b90b-4574931d3503",
+      "isSecret": false
+    }
+  }
+}

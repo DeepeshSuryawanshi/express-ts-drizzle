@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    // Environment setup & latest features
+    "lib": ["ESNext"],
+    "target": "ESNext",
+    "module": "esnext",
+
+    // source and output
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Bundler mode
+    "moduleResolution": "bundler",
+
+    // Best practices
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+
+    "resolveJsonModule": true,
+  },
+  "include": ["src"],
+  "exclude": ["node_modules","dist"]
+}
